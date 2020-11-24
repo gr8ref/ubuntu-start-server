@@ -41,7 +41,21 @@ use strapi1;
 
 exit
 
+# install strapi
 
+npx create-strapi-app my-project
+
+or 
+
+npm install strapi@latest -g
+
+or 
+
+npm install -g create-strapi-app
+
+create-strapi-app my-project
+
+# install 
 
 # install nginx
 cd ~
