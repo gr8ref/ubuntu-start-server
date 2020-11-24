@@ -97,7 +97,8 @@ pm2 save
 
 # install nginx
 https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-18-04
-cd ~
+
+<code>cd ~</code>
 
 sudo apt-get install nginx
 
