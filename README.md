@@ -55,7 +55,11 @@ npm install -g create-strapi-app
 
 create-strapi-app my-project
 
-# install 
+Strapi cli
+
+https://strapi.io/documentation/3.0.0-beta.x/cli/CLI.html
+
+
 
 # install nginx
 cd ~
