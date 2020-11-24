@@ -1,9 +1,13 @@
 # ubuntu start server
  Nodejs, nginx and strapi
+
 # build nodejs
 sudo apt update
+
 cd ~
+
 apt install curl
+
 curl -sL https://deb.nodesource.com/setup_14.x -o nodesource_setup.sh
 sudo bash nodesource_setup.sh
 
